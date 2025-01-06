@@ -15,3 +15,7 @@ registered users.
 • Our local database consisted of more than 5000 movies.
 • Was deployed using AWS using BeanStalk.
 • Use of Axios for server integration via ReactJS.
+
+
+Architecture Overview
+This WebApp follows a request-response API architecture to facilitate communication with the server through APIs. The server is backed by a database that stores information about movies, reviews, and user details. It also handles fetching movie details from the external OMDB API, providing the data in JSON format.
