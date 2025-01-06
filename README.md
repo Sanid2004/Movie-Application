@@ -18,3 +18,6 @@ registered users.
 
 Architecture Overview : 
 This WebApp follows a request-response API architecture to facilitate communication with the server through APIs. The server is backed by a database that stores information about movies, reviews, and user details. It also handles fetching movie details from the external OMDB API, providing the data in JSON format.
+
+![image](https://github.com/user-attachments/assets/1c9eb9a6-a4d7-4c8d-aff1-74bf5369c33c)
+
