@@ -1,7 +1,12 @@
 The SRS document for my project https://docs.google.com/document/d/e/2PACX-1vREgC6sN5qAuPQDFaIH-A4EJCj6QKqVDfrhxSK6tzKMfUUzipRve1sSV4DuNAIjwg/pub
 
 Main Functionalities:
+
+
 • Role based access control for Registered , Unregistered and Admin users. 
+
+
+
 • Password was encrypted using BEncypt Password Encoder and then stored in database (MySQL).
 • JWT Authentication on API's pertaining to registered users.
 • Use of OMDB Api for fetching the information for a particular movie.
