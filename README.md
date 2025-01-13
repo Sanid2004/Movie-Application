@@ -49,3 +49,10 @@ reviews, and user details. It also handles fetching movie details from the exter
 
 ![image](https://github.com/user-attachments/assets/1c9eb9a6-a4d7-4c8d-aff1-74bf5369c33c)
 
+
+ER Diagram
+
+
+![image](https://github.com/user-attachments/assets/b186119c-a074-485f-89e9-98ca4cfa3fb3)
+
+
